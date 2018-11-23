@@ -1,4 +1,4 @@
-# Python Chunk Downloader
+# Python File Chunk Downloader
 
 import requests
 from tqdm import tqdm
