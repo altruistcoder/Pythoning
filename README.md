@@ -10,6 +10,6 @@ Pythoning is a repository of various python programs which can be used to perfor
 
   It is python program which makes a custom python interactive shell.
   
-* [Python Chunk downloader](https://github.com/altruistcoder/pythoning/blob/master/python_chunk_downloader.py):
+* [Python File Chunk downloader](https://github.com/altruistcoder/pythoning/blob/master/python_chunk_downloader.py):
 
   It is a python program which can be used to download any file in chunks of small sizes.
